@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MIMXRT1166DVM6A")(type "KiCad")(uri "${KIPRJMOD}/Components/MIMXRT1166DVM6A")(options "")(descr ""))
+  (lib (name "AS4C4M32S-6BIN")(type "KiCad")(uri "${KIPRJMOD}/Components/AS4C4M32S-6BIN/AS4C4M32S-6BIN.pretty")(options "")(descr ""))
+  (lib (name "AMDLA4020Q-4R7MT")(type "KiCad")(uri "${KIPRJMOD}/Components/AMDLA4020Q-4R7MT/AMDLA4020Q-4R7MT.pretty")(options "")(descr ""))
+  (lib (name "ECMF04-4HSM10")(type "KiCad")(uri "${KIPRJMOD}/Components/ECMF04-4HSM10/ECMF04-4HSM10.pretty")(options "")(descr ""))
+  (lib (name "DF40GB-48DP-0.4V_58_")(type "KiCad")(uri "${KIPRJMOD}/Components/DF40GB-48DP-0.4V_58_/DF40GB-48DP-0.4V_58_.pretty")(options "")(descr ""))
+  (lib (name "DP83826ERHBR")(type "KiCad")(uri "${KIPRJMOD}/Components/DP83826ERHBR/DP83826ERHBR.pretty")(options "")(descr ""))
+  (lib (name "AP2156SG-13")(type "KiCad")(uri "${KIPRJMOD}/Components/AP2156SG-13/AP2156SG-13.pretty")(options "")(descr ""))
+  (lib (name "FT234XD-R")(type "KiCad")(uri "${KIPRJMOD}/Components/FT234XD-R/FT234XD-R.pretty")(options "")(descr ""))
+  (lib (name "THGBMTG5D1LBAIL")(type "KiCad")(uri "${KIPRJMOD}/Components/THGBMTG5D1LBAIL/THGBMTG5D1LBAIL.pretty")(options "")(descr ""))
+  (lib (name "W25Q16JVSSIQ")(type "KiCad")(uri "${KIPRJMOD}/Components/W25Q16JVSSIQ/W25Q16JVSSIQ.pretty")(options "")(descr ""))
+)

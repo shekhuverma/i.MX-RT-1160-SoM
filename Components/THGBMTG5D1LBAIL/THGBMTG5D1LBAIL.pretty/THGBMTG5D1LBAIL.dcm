@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP THGBMTG5D1LBAIL
+D NAND Flash Serial e-MMC 3.3V 32G-bit 32G/8G/4G x 1/4-bit/8-bit 13.7ns 153-Pin WFBGA
+K
+F https://static6.arrow.com/aropdfconversion/5b79d7e5222d5200711a0ed1082b7aa51b6d9eb4/xia_thgbmtg5d1lbail15nm4gbe-mmcver5.0_e_rev.1.0_20211007.pdf
+$ENDCMP
+#
+#End Doc Library

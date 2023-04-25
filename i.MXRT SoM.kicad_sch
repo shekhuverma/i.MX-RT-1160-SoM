@@ -1,0 +1,116 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 77389bfc-4b50-4301-9fd0-a9b307bb9d36)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 173.5328 23.114) (size 65.5828 38.354) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4e4692db-1b32-4840-a099-eeb6c897042d)
+    (property "Sheetname" "MCU" (at 173.5328 22.4024 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU.kicad_sch" (at 173.5328 62.0526 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "i.MXRT SoM"
+        (path "/77389bfc-4b50-4301-9fd0-a9b307bb9d36" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 99.314 22.8092) (size 58.928 38.608) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 749b3497-aa00-4585-929e-7538f146a1e6)
+    (property "Sheetname" "MCU_DSI" (at 99.314 22.0976 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU_DSI.kicad_sch" (at 99.314 62.0018 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "i.MXRT SoM"
+        (path "/77389bfc-4b50-4301-9fd0-a9b307bb9d36" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 28.9052 22.7076) (size 60.0456 38.4048) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c3c5b611-e665-407e-a9b3-d421db7ec5a0)
+    (property "Sheetname" "MCU_POWER" (at 28.9052 21.996 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU_POWER.kicad_sch" (at 28.9052 61.697 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "i.MXRT SoM"
+        (path "/77389bfc-4b50-4301-9fd0-a9b307bb9d36" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 29.21 81.915) (size 60.96 39.37) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d3d011e9-74f3-4e4b-8115-67511aab0584)
+    (property "Sheetname" "SD_RAM" (at 29.21 81.2034 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "SD_RAM.kicad_sch" (at 29.21 121.8696 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "i.MXRT SoM"
+        (path "/77389bfc-4b50-4301-9fd0-a9b307bb9d36" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 100.33 81.915) (size 59.055 39.37) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid deebf056-fba9-4e97-83a2-b62a24668984)
+    (property "Sheetname" "IO" (at 100.33 81.2034 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "IO.kicad_sch" (at 100.33 121.8696 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "i.MXRT SoM"
+        (path "/77389bfc-4b50-4301-9fd0-a9b307bb9d36" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 175.26 81.28) (size 60.96 39.37) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f4ca4cdc-e2a6-4819-a853-05c756aa612c)
+    (property "Sheetname" "Ethernet" (at 175.26 80.5684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Ethernet.kicad_sch" (at 175.26 121.2346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "i.MXRT SoM"
+        (path "/77389bfc-4b50-4301-9fd0-a9b307bb9d36" (page "7"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

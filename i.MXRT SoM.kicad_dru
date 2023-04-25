@@ -1,0 +1,7 @@
+(version 1)
+(rule "Clearance between Pads "  
+    (constraint clearance (min 6mil))
+	(condition "A.Pad_Type == 'SMD'")
+	(condition "A.existsOnLayer('B.cu')")
+	(layer "B.Cu")
+)
